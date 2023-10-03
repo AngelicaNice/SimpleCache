@@ -1,3 +1,3 @@
-module in-memory-cache
+module SimpleCache
 
 go 1.20
